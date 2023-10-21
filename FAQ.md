@@ -1,4 +1,4 @@
-# FAQ for development
+# FAQs for development
 
 ## Introduction
 
